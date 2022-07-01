@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node node_modules/jest/bin/jest",
-    "server": "node ./lib/server.js"
+    "server": "node ./lib/server.js",
+    "bot": "node ./lib/bot.js"
   },
   "repository": {
     "type": "git",
